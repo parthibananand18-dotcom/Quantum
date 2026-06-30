@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    printf("Hello, Quantum World!\n");
+    printf("Hello, Quantum man!\n");
     return 0;
 }
